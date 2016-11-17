@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">EJ16RadioCheckButtons</string>
+    <string name="opcionesFondo">Opciones del fondo</string>
+    <string name="fondoRojo">Fondo rojo</string>
+    <string name="transparente">Transparente</string>
+    <string name="activityVerde">Activity verde</string>
+    <string name="centrado">Centrado sin estirar</string>
+    <string name="estirado">Estirado</string>
+</resources>
